@@ -19,4 +19,3 @@ function keyPress(e) {
   }
   document.body.addEventListener('keydown',init);
 }
-}
